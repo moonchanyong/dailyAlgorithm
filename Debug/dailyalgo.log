@@ -1,0 +1,2 @@
+﻿baekjun_15321.obj : error LNK2019: "public: static void __cdecl mcy::mcy::removeElementAtArry(int *,int,int)" (?removeElementAtArry@mcy@1@SAXPAHHH@Z) 외부 기호(참조 위치: "void __cdecl remove(int,int)" (?remove@@YAXHH@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\Gaelly\documents\visual studio 2017\Projects\dailyalgo\Debug\dailyalgo.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
