@@ -140,10 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AlgoritmSuport.cpp" />
-    <ClCompile Include="baekjun_15321.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="AlgoritmSuport.h" />
+    <ClCompile Include="boj_1992.cpp" />
+    <ClCompile Include="memo.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
